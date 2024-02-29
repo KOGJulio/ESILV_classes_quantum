@@ -1,0 +1,13 @@
+numpy
+matplotlib
+Networkx
+scipy
+ipykernel
+pandas
+
+perceval-quandela
+qiskit
+qiskit_ibm_provider
+qiskit-aer
+dwave-system
+dwave-ocean-sdk

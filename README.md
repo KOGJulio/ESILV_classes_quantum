@@ -1,4 +1,4 @@
-# ESILV clases by Ana Filipa Carvalho with Quandela
+# ESILV classes with Quandela
 
 This repository serves the purpose of classes at ESILV on QUBO problems with Quantum Computation. 
 
